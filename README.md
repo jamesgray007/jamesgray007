@@ -1,4 +1,11 @@
-### Hi there 👋
+
+🤓 I am a Chief Information Officer that builds and operates software products and technology platforms at startups and leading companies such as Microsoft. 
+
+💥 I am a career, leadership, and business coach for driven people who seek meaning, impact, autonomy, and unique rewards from a craft they love.
+
+👨‍💻 I am a technology strategist and coach for creators and solopreneurs to guide them on the selection, implementation, and optimization of technology and processes to save money, save time, and grow their businesses.
+
+🏫 I am a data strategy instructor at the Haas School School of Business ExecEd program, University of California, Berkeley.
 
 <!--
 **jamesgray007/jamesgray007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
