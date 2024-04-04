@@ -1,6 +1,6 @@
 This page includes a list of data and AI courses and documentation for learning.
 
 # LangChain
-[LangChain](https://www.langchain.com/)
-[Functions, Tools and Agents with LangChain](https://www.coursera.org/projects/functions-tools-and-agents-with-langchain-project)
-[LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
+[LangChain](https://www.langchain.com/)  
+[Functions, Tools and Agents with LangChain](https://www.coursera.org/projects/functions-tools-and-agents-with-langchain-project)  
+[LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)  
