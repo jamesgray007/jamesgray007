@@ -1,9 +1,12 @@
 
-🤓 I am a Chief Information Officer that builds and operates software products and technology platforms at startups and leading companies such as Microsoft. 
-
-💥 I am a coach for driven leaders and professionals who seek meaning, impact, autonomy, and unique rewards from a craft they love.
-
-🏫 I am a data strategy instructor at the Haas School School of Business ExecEd program, University of California, Berkeley.
+# James Gray
+James Gray is a UC Berkeley-trained data and AI strategist who works with leading companies that seek to use technology as a competitive advantage. He also teaches data and artificial intelligence strategy at the renowned Berkeley Haas School of Business and coaches tech-industry professionals and graduate students at the Gies College of Business, University of Illinois Urbana-Champaign, on how to reach their full potential.
+## James the Technologist
+I am a former CIO, CPO, and Data Executive who is a fractional technology leader to innovative companies seeking to accelerate business outcomes through data, artificial intelligence (AI), and people.  I have built software products and technology platforms at startups and leading companies like Microsoft. [Learn about my strategic consulting services.](https://www.jamesgray.io/technology-leader)
+## James the Academic
+I am a learning facilitator at my alma mater, the Haas School of Business, University of California, Berkeley, for two executive education courses: Data Strategy: Leveraging Data as a Competitive Advantage and Artificial Intelligence: Business Strategies and Applications. [Join our next cohort](https://www.jamesgray.io/university-instructor) to learn how to lead a data and AI strategy to drive business value. 
+## James the Coach
+I coach leaders, professionals, and university students who seek peak performance and growing their true potential doing work they love. I also write about career strategy. I am certified by Brown University in Leadership and Performance Coaching. [Learn about coaching products to serve you as a trusted coach.](https://www.jamesgray.io/coach)
 
 <!--
 **jamesgray007/jamesgray007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
