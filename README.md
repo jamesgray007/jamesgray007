@@ -1,12 +1,14 @@
 
 # James Gray
-James Gray is a UC Berkeley-trained data and AI strategist who works with leading companies that seek to use technology as a competitive advantage. He also teaches data and artificial intelligence strategy at the renowned Berkeley Haas School of Business and coaches tech-industry professionals and graduate students at the Gies College of Business, University of Illinois Urbana-Champaign, on how to reach their full potential.
-## James the Technologist
-I am a former CIO, CPO, and Data Executive who is a fractional technology leader to innovative companies seeking to accelerate business outcomes through data, artificial intelligence (AI), and people.  I have built software products and technology platforms at startups and leading companies like Microsoft. [Learn about my strategic consulting services.](https://www.jamesgray.io/technology-leader)
-## James the Academic
-I am a learning facilitator at my alma mater, the Haas School of Business, University of California, Berkeley, for two executive education courses: Data Strategy: Leveraging Data as a Competitive Advantage and Artificial Intelligence: Business Strategies and Applications. [Join our next cohort](https://www.jamesgray.io/university-instructor) to learn how to lead a data and AI strategy to drive business value. 
-## James the Coach
-I coach leaders, professionals, and university students who seek peak performance and growing their true potential doing work they love. I also write about career strategy. I am certified by Brown University in Leadership and Performance Coaching. [Learn about coaching products to serve you as a trusted coach.](https://www.jamesgray.io/coach)
+James Gray is a visionary Data and AI Executive who partners with leading companies to drive business transformation and growth through data and AI technology.
+
+As an instructor at the prestigious Berkeley Haas School of Business, James shares his data and artificial intelligence strategy expertise, shaping the next generation of business leaders. He brings a unique blend of academic knowledge and real-world expertise into the learning experience.
+
+From leading career strategy workshops at Microsoft in 2008 to now guiding professionals through his “Inner Quest” cohort course and one-on-one coaching, James is dedicated to unlocking human potential.
+
+James earned an MBA and Master of Information and Data Science from the University of California, Berkeley, and a Bachelor of Science in Electrical Engineering from Union College.  He also holds a Brown University Leadership and Performance Coaching certification, which empowers him to develop leaders and high-performance teams.
+
+[Socials and Content](https://jamesgray.ai)
 
 <!--
 **jamesgray007/jamesgray007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
