@@ -1,12 +1,10 @@
 
 # James Gray
-James Gray is a visionary Data and AI Executive who partners with leading companies to drive business transformation and growth through data and AI technology.
+Hi, this is James Gray! As a Data and AI Leader with over thirty years of technology experience, including a decade at Microsoft, I partner with innovative organizations as a fractional leader and trusted advisor to leverage data, AI, and leadership capabilities for a competitive edge. 
 
-As an instructor at the prestigious Berkeley Haas School of Business, James shares his data and artificial intelligence strategy expertise, shaping the next generation of business leaders. He brings a unique blend of academic knowledge and real-world expertise into the learning experience.
+In addition to my work with organizations, I am an instructor for data and artificial intelligence strategy at the Berkeley Haas School of Business.
 
-From leading career strategy workshops at Microsoft in 2008 to now guiding professionals through his “Inner Quest” cohort course and one-on-one coaching, James is dedicated to unlocking human potential.
-
-James earned an MBA and Master of Information and Data Science from the University of California, Berkeley, and a Bachelor of Science in Electrical Engineering from Union College.  He also holds a Brown University Leadership and Performance Coaching certification, which empowers him to develop leaders and high-performance teams.
+I earned an MBA and Master of Information and Data Science from the University of California, Berkeley, and a Bachelor of Science in Electrical Engineering from Union College. I also hold a Brown University Leadership and Performance Coaching certification, which empowers me to develop leaders and high-performance teams.
 
 [Socials and Content](https://jamesgray.ai)
 
