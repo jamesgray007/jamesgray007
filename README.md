@@ -6,7 +6,9 @@ In addition to my work with organizations, I am an instructor for data and artif
 
 I earned an MBA and Master of Information and Data Science from the University of California, Berkeley, and a Bachelor of Science in Electrical Engineering from Union College. I also hold a Brown University Leadership and Performance Coaching certification, which empowers me to develop leaders and high-performance teams.
 
-[Socials and Content](https://jamesgray.ai)
+[Web](https://jamesgray.ai)  
+[Courses](https://courses.jamesgray.ai)  
+[Hugging Face](https://huggingface.co/jamesgray007)
 
 <!--
 **jamesgray007/jamesgray007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
