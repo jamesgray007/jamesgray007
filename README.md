@@ -1,10 +1,12 @@
 
 # James Gray
-Hi, this is James Gray! As a Data and AI Leader with over thirty years of technology experience, including a decade at Microsoft, I partner with innovative organizations as a fractional leader and trusted advisor to leverage data, AI, and leadership capabilities for a competitive edge. 
+James Gray transforms organizations through data & AI strategy and products, drawing on over three decades of leadership as CIO, CPO, and head of data engineering and data science teams at both global enterprises and high-growth startups.
 
-In addition to my work with organizations, I am an instructor for data and artificial intelligence strategy at the Berkeley Haas School of Business.
+At Microsoft, James spent a decade leading strategy and development of global data systems that powered critical business decisions across sales, marketing, customer support, and consulting. He now guides organizations through data and AI transformations as founder of JamesGray.AI, providing consulting, fractional leadership, and learning experiences. His Hands-on AI for Leaders course has trained hundreds of leaders and professionals worldwide.
 
-I earned an MBA and Master of Information and Data Science from the University of California, Berkeley, and a Bachelor of Science in Electrical Engineering from Union College. I also hold a Brown University Leadership and Performance Coaching certification, which empowers me to develop leaders and high-performance teams.
+As a course facilitator for Berkeley Haas Data Strategy and AI Strategy programs, James helps executives design actionable capstone deliverables—including data and AI roadmaps—for immediate implementation. His teaching combines deep practitioner experience with academic rigor, enabling leaders to move confidently from strategy to execution.
+
+James earned his BS in Electrical Engineering from Union College, MBA from Berkeley Haas, and MS in Information and Data Science from UC Berkeley. He is a certified leadership and performance coach through Brown University.
 
 [Web](https://jamesgray.ai)  
 [Courses](https://courses.jamesgray.ai)  
